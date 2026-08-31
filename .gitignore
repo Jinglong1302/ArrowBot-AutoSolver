@@ -1,0 +1,33 @@
+# Internal Documentation
+INTERNAL_LOGIC.md
+INTERNAL_*.md
+*.internal.*
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Java & Build Output
+bin/
+*.class
+
+# Debug Images & Artifacts
+debug_images/
+debug_*.png
+screen_*.png
+step*.png
+roi_*.png
+Select*.png
+*.log
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
